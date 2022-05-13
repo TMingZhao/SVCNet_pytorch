@@ -1,0 +1,6 @@
+# ninja log v5
+0	23925	1640943198585092639	/home/rslab/ztm/DenoiseUpsampling/sampling/build/temp.linux-x86_64-3.8/sampling_cuda.o	7ebb9927ac988695
+1	6972	1640943387463694517	/home/rslab/ztm/DenoiseUpsampling/sampling/build/temp.linux-x86_64-3.8/sampling_cuda.o	9e900ef4dc90d3e7
+0	7345	1641205220193051701	/home/rslab/ztm/DenoiseUpsampling/sampling/build/temp.linux-x86_64-3.8/sampling_cuda.o	8dbdba294309d395
+0	11924	1641205224765316143	/home/rslab/ztm/DenoiseUpsampling/sampling/build/temp.linux-x86_64-3.8/sampling.o	29baae94819c75b4
+2	7183	1641472018018933889	/home/rslab/ztm/DenoiseUpsampling/sampling/build/temp.linux-x86_64-3.8/sampling_cuda.o	8dbdba294309d395
